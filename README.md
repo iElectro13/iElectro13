@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iElectro13
+- 👀 I’m interested in learning the git workflow
+- 🌱 I’m currently learning Git/Github and Python.
