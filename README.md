@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @iElectro13
-- 👀 I’m interested in learning the git and github workflow.
-- 🌱 I’m currently learning Git/Github and Python.
+- 👀 I’m interested in learning all the web development workflow.
+- 🌱 I’m currently learning Git/Github, Python, Flask and ReactJS.
